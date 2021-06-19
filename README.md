@@ -38,7 +38,7 @@ Fuera de la asignatura también ha habido oportunidades de aplicar conocimientos
 
 <img src="./img/Screenshot 2021-06-19 at 18-26-19 Acorn clicker.png" alt="Screenshot 2021-06-19 at 18-26-19 Acorn clicker" style="zoom:40%;" />
 
-<img src="/home/clara/DIU_examen/img/Screenshot 2021-06-19 at 18-26-27 Plannr.png" style="zoom:40%;" />
+<img src="./img/Screenshot 2021-06-19 at 18-26-27 Plannr.png" style="zoom:40%;" />
 
 
 
@@ -52,11 +52,11 @@ Esta parte se basa en analizar el rediseño de YUZIN, una revista cultural que r
 
 Para entender mejor el rediseño, vamos a analizar brevemente la versión anterior. Con [`the wayback machine - Internet Archive`](https://archive.org/web/) hemos accedido a una *snapshot* de Agosto de 2019.
 
-![](./img/Screenshot 2021-06-19 at 18-25-56 Yuzin Agenda Cultural.png)
+<img src="./img/Screenshot 2021-06-19 at 18-25-56 Yuzin Agenda Cultural.png">
 
 Como hemos mencionado antes, esto no es únicamente un rediseño de la página web: es un *rebranding*, implica cambiar el propósito y la imagen de marca de *Yuzin*. Podemos ver que en la versión antigua las opciones de la página se limitan a descargar o bien la versión sevillana, o bien la versión granadina de la revista. Si vemos la versión actual, nos damos cuenta de que la revista queda relegada a un segundo plano, mientras que en la página principal se ofertan diversas secciones (artículos de opinión, actividades culturales...).
 
-![](/home/clara/DIU_examen/img/Screenshot 2021-06-19 at 18-44-24 Yuzin Club Cultural agenda y venta de entradas.png)
+<img src="./img/Screenshot 2021-06-19 at 18-44-24 Yuzin Club Cultural agenda y venta de entradas.png">
 
 Esta es la página tal y como se presenta en mi ordenador, al abrirla sin modificar ningún aspecto. Vamos a recorrer la página en su enteridad y analizar todos los elementos que se nos presentan.
 
@@ -74,13 +74,13 @@ Lo primero que me gustaría indicar es que el rediseño ha alcanzado el logo, lo
 
 - En el *footer* nos encontramos con una versión comprimida del logo: el garabato sobre la "i" del logo inicial, se convierte en un fondo sobre el que se sustrae la "Y". Este logo reducido se emplea a lo largo de la página como floritura, y se presta a usarlo también como una posible app móvil.
 
-  <img src="/home/clara/DIU_examen/img/logoicon.png" style="zoom:33%;" />
+  <img src="./img/logoicon.png" style="zoom:33%;" />
 
 
 
 La barra del menú presenta algunos fallos: tiene una única palabra abajo porque no cabe en mi pantalla (es decir, su diseño no es *responsive* para todas las resoluciones), y además el espaciado interno es inconsistente, ya que se pierde el espaciado con el bloque en la izquierda.
 
-![](/home/clara/DIU_examen/img/topbar.png)
+![](./img/topbar.png)
 
 Esto se soluciona cuando ponemos el zoom al 90%, pero como hemos dicho, indica un problema subyaciente en cómo se calcula el tamaño de la barra respecto a la pantalla.
 
@@ -110,7 +110,7 @@ El banner de noticias es un carrusel en el que circula la última opinión publi
 
 Los artículos no se alinean correctamente con las fotos. De nuevo, es un problema de resolución. Por lo demás, están correctos, si bien pienso en calidad personal que la previsualización del texto es un poco larga.
 
-![](/home/clara/DIU_examen/img/Screenshot 2021-06-19 at 19-43-45 Yuzin Club Cultural agenda y venta de entradas.png)
+<img src="./img/Screenshot 2021-06-19 at 19-43-45 Yuzin Club Cultural agenda y venta de entradas.png">
 
 #### Eventos destacados y actualidad cultural
 
@@ -139,7 +139,7 @@ La información y formato general es correcto, pero se beneficiaría de tabular 
 
 #### Mockup
 
-![](/home/clara/DIU_examen/img/mockup.png)
+![](./img/mockup.png)
 
 
 
